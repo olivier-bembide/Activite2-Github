@@ -1,7 +1,12 @@
-Correction activité 2 Github
-Projet : Création de mon curriculum vitae Online.
-Type de siteObjectifsIndicateursSite corporate : CV onlinePrésentation de mon Identité numérique.Nbre de visites 
-Nbre de contact…
-Description : 
-Ce projet à pour objectif de mettre en ligne mon curriculum vitae.
+Correction activitÃ© 2 Github
+ProjetÂ : CrÃ©ation de mon curriculum vitae Online.
+
+Site corporateÂ : CV online
+adresse relative du futur site : https://www.olivierbembide.fr
+
+DescriptionÂ : 
+Ce projet Ã  pour objectif de mettre en ligne mon curriculum vitae.
 Merci.
+
+
+
